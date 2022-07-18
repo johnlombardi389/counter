@@ -1,5 +1,7 @@
 * {
   background-color: #adf0e7;
+  margin: 0;
+  padding: 0;
 }
 
 #counterLabel {
@@ -8,6 +10,12 @@
   font-size: 75px;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
 button {
   background-color: #58837d;
   border: none;
@@ -15,4 +23,5 @@ button {
   text-align: center;
   font-size: 15px;
   padding: 10px 20px;
+  margin: 15px;
 }
