@@ -1,0 +1,18 @@
+* {
+  background-color: #adf0e7;
+}
+
+#counterLabel {
+  display: block;
+  text-align: center;
+  font-size: 75px;
+}
+
+button {
+  background-color: #58837d;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px 20px;
+}
